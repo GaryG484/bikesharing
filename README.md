@@ -35,3 +35,5 @@
 
 ## Bikesharing Summary
 ##### The results indicate any successful business model involving bike sharing would be marketed towards males. Also, the maintenance and upkeep on the bikes should be done outside of peak rush hours in the early morning and mid evening so that the maximum profit could be made. Once given data for population density and population gender statistics two more graphs could be created; one showing potential station positions based on population density, and one showing the potential bike usage based on gender statistics. 
+
+[link to dashboard](https://public.tableau.com/app/profile/gary.l.goodman/viz/Bikesharing_16348630547080/CitiBikeStory?publish=yes)
